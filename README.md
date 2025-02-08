@@ -15,8 +15,8 @@ Sharma, N.K., Saharia, M., 2025. DeepSARFlood: Rapid and Automated SAR-based flo
 For any queries, please contact:
 
 Nirdesh Sharma  
-nirdesh@civil.iitd.ac.in
-Department of Civil Engineering    
+nirdesh@civil.iitd.ac.in  
+Department of Civil Engineering      
 Indian Institute of Technology Delhi   
 
 Dr. Manabendra Saharia   
