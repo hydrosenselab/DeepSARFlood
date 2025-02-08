@@ -6,7 +6,6 @@ This is the codebase for mapping floods using SAR data and deep learning.
 Articles: 
 Sharma, N.K., Saharia, M., 2025. DeepSARFlood: Rapid and Automated SAR-based flood inundation mapping using Vision Transformer-based Deep Ensembles with uncertainty estimates. Sci. Remote Sens. 100203. https://doi.org/10.1016/j.srs.2025.100203
 
-![image](https://github.com/user-attachments/assets/a9b8bbfc-0112-4ecf-93ca-d61515601924)
 
 
 # Major Datasets Used
