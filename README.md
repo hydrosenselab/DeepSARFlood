@@ -14,7 +14,7 @@ Sharma, N.K., Saharia, M., 2025. DeepSARFlood: Rapid and Automated SAR-based flo
 # [HydroSense Lab, IIT Delhi](https://hydrosense.iitd.ac.in/) | [Lab GitHub](https://github.com/hydrosenselab) | [Zenodo](www.Zenodo.com)
 For any queries, please contact:
 
-Nirdesh Sharma
+Nirdesh Sharma  
 nirdesh@civil.iitd.ac.in
 Department of Civil Engineering    
 Indian Institute of Technology Delhi   
