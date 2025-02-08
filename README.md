@@ -8,8 +8,6 @@ This is the codebase for mapping floods using SAR data and deep learning.
 # Runtime example:
 
 Click to see the video of the working GUI
-<iframe width="800" height="450" src="https://www.youtube.com/watch?v=TiVcjaTp8sE" frameborder="0" allowfullscreen></iframe>  
-
 
 [![Video](https://img.youtube.com/vi/TiVcjaTp8sE/0.jpg)](https://www.youtube.com/watch?v=TiVcjaTp8sE)
 
