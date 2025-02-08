@@ -1,6 +1,6 @@
 # DeepSARFlood:
 
-This is the codebase for mapping floods using SAR data and deep learning.
+This is the codebase for mapping floods using SAR data and deep learning.  
 
 
 ![Main fig](https://github.com/hydrosenselab/DeepSARFlood/blob/master/img.jpg)  
