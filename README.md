@@ -5,9 +5,9 @@ This is the codebase for mapping floods using SAR data and deep learning.
 
 ![Main fig](https://github.com/hydrosenselab/DeepSARFlood/blob/master/img.jpg)  
 
-# DeepSARFlood:
+# Sample:
 
-Video of the working GUI
+Click to see the video of the working GUI
 
 [![Video](https://img.youtube.com/vi/TiVcjaTp8sE/0.jpg)](https://www.youtube.com/watch?v=TiVcjaTp8sE)
 
@@ -38,10 +38,3 @@ Contact: [msaharia@iitd.ac.in](msaharia@iitd.ac.in)
   <img src="https://i.imgur.com/qVGTGwT.png" width=20% height=20% />
   <img src="https://i.imgur.com/6giJLL8.png" width=20% height=20% />
 </p>
-
-
-
-
-To be added in .md format  
-weights are [here]()  
-Follow normal guidelines
